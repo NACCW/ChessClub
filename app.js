@@ -14,3 +14,5 @@ window.addEventListener('load', e => {
       document.querySelector('.alert').removeAttribute('hidden'); 
     }
   }
+
+// could we ever have a an else if in this function/
